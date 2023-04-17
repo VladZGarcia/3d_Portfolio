@@ -50,7 +50,7 @@ const Feedbacks = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default SectionWrapper(Feedbacks, "")
+export default SectionWrapper(Feedbacks, "");

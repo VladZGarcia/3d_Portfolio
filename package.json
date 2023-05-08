@@ -1,7 +1,7 @@
 {
   "name": "3d_portfolio",
   "private": true,
-  "homepage": "https://vlazgarcia.github.io/3d_portfolio",
+  "homepage": "https://VladZGarcia.github.io/3d_portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -33,5 +33,16 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
     "vite": "^4.2.0"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladZGarcia/3d_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladZGarcia/3d_portfolio/issues"
+  },
+  "description": ""
 }

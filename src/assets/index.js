@@ -25,10 +25,18 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import kotlin from "./company/kotlin.png";
+import swift from "./company/swift.png";
+import firebase from "./company/firebase.png";
+import googlemaps from "./company/googlemaps.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import doggydaycare from "./doggydaycare.png";
+import moviegram from "./moviegram.png";
+import threedportfolio from "./threedportfolio.png";
+
 
 export {
   logo,
@@ -59,4 +67,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  kotlin,
+  swift,
+  firebase,
+  googlemaps,
+  doggydaycare,
+  moviegram,
+  threedportfolio
 };

@@ -35,9 +35,11 @@ const About = () => {
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        Är en driven 4 barns pappa med mycket energi och tålamod, är som person social och positiv och lättsam att umgås med. Anses vara lugn, speciellt vid stressade situationer och gillar att lösa problem på ett så effektivt sätt som möjligt.
-        Trivs att arbeta självständigt men även i grupper om flera. För mig är kommunikation en viktig del, speciellt vid lösning av problem för att undvika onödig omanalysering/extra arbete/missförstånd gillar att istället försöka ha ett effektivt arbetsflöde.
-        Har erfarenhet i att arbeta under stress och har beskrivits av arbetskamraters som aktiv, noggrann och flexibel.
+        As an individual, I have been described as someone who is driven and energetic, my patience and positive outlook on life make me easy to get along with, and I have always prided myself on being able to remain calm even in the most stressful situations.
+
+        When it comes to problem-solving, I am a firm believer in the importance of communication and efficiency. I prefer to work both independently and as part of a team, and I always strive to ensure that everyone involved in a project is on the same page. This approach helps to avoid misunderstandings and extra work, and ultimately leads to a more streamlined and effective workflow.
+
+        I have a wealth of experience in working under pressure, and my colleagues have consistently praised me for my accuracy, flexibility, and proactive attitude. I am always eager to take on new challenges and to adapt to new situations, and I believe that these qualities make me a valuable asset to any team.
 
 
       </motion.p>

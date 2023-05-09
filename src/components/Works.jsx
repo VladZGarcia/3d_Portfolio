@@ -55,8 +55,8 @@ const Works = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Mina arbeten hittils</p>
-        <h2 className={styles.sectionHeadText}>Project.</h2>
+        <p className={styles.sectionSubText}>WebbApp</p>
+        <h2 className={styles.sectionHeadText}>Projects.</h2>
       </motion.div>
 
       <div className="w-full flex">
@@ -64,7 +64,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Det här är projekten jag jobbat med tills nu, de visar en del av min erfarenhet och utveckling under utbildningen.
+          "These are some of the projects that I have had the opportunity to work on during my education. Through these experiences, I have been able to gain valuable experience and knowledge, and have continued to evolve and develop my skills."
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">

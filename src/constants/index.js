@@ -244,7 +244,7 @@ const projects = [
       },
     ],
     image: moviegram,
-    source_code_link: "https://github.com/AndreiPirHu/Moviegram.git",
+    source_code_link: "https://andreipirhu.github.io/Moviegram/",
   },
   {
     name: "3d Portfolio",
